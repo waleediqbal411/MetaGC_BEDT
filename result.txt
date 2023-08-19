@@ -1,9 +1,6 @@
 Success
 merged from lesson2
-<<<<<<< HEAD
 merged from lesson2
-=======
->>>>>>> main
 merge from feature/lesson
 merge from lesson2
 merged from lesson2
