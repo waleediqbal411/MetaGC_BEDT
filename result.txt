@@ -1,4 +1,8 @@
 Success
+<<<<<<< HEAD
 merge from feature/lesson
 
 merge from lesson2
+=======
+merged from lesson2
+>>>>>>> b1dbba74b08096f98e4ebf68a8fd66ab6f16105c
