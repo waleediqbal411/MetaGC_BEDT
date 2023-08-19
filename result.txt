@@ -1,12 +1,7 @@
 Success
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 merged from lesson2
->>>>>>> bdfc6072ce2d927035d1d644613fd92cb3d5f1f8
+merged from lesson2
 merge from feature/lesson
-
 merge from lesson2
-=======
 merged from lesson2
->>>>>>> b1dbba74b08096f98e4ebf68a8fd66ab6f16105c
+
